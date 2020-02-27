@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582777830 source:/home/frwd/work/LeetCode/Cpp/Entry.cpp
+	"stdio.h"
+	"LeetCodePractice.h"
+
+1582778401 /home/frwd/work/LeetCode/Cpp/include/LeetCodePractice.h
+	<vector>
+	<map>
+
+1582778401 source:/home/frwd/work/LeetCode/Cpp/src/LeetCodePractice.cpp
+	"LeetCodePractice.h"
+
